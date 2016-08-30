@@ -1,2 +1,2 @@
 # rivescript-sublimetext
-Rivescript syntax definition for Sublime Text
+[Rivescript](https://www.rivescript.com/) syntax definition for Sublime Text
